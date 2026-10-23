@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Leaf -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,66C38,46 52,32 74,30C76,52 62,68 38,66Z" />
+
+    <!-- Leaf vein -->
+    <path
+        android:pathData="M42,62L66,38"
+        android:strokeWidth="2.5"
+        android:strokeColor="#455A64"
+        android:strokeLineCap="round" />
+
+    <!-- Nest / bowl -->
+    <path
+        android:pathData="M34,76Q54,94 74,76"
+        android:strokeWidth="5"
+        android:strokeColor="#CFD8DC"
+        android:strokeLineCap="round" />
+</vector>
